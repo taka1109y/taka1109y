@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...　　Network/Linux
 - ⚡ Fun fact: fishing🎣  game🎮  fest♪
 
-## Technologies⚡️
+## Technologies👨‍💻
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,8 +35,6 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F2F4F9?style=flat-square&logo=Firebase" />
 </p>
-
-## Status👨‍💻
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka1109y&layout=compact&count_private=true&show_icons=true" />

@@ -41,8 +41,7 @@ I'm Takaaki, Japanese college student aiming to become a security engineer.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on ... Linux/Raspberry pi
-- 🌱 I’m currently learning ...　　Network qualification
+- 🌱 I’m currently learning ...　　Network/Linux
 - ⚡ Fun fact: fishing🎣 game🎮 fest♪
 
 

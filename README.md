@@ -3,6 +3,15 @@
 welcome to my page.
 I'm Takaaki, Japanese college student aiming to become a security engineer.
 
+p align="left"> 
+  <a href="https://github.com/taka1109y/taka1109y/">
+    <img src="https://komarev.com/ghpvc/?username=taka1109y" alt="taka1109y" />
+  </a>
+  <a href="http://twitter.com/takaaki25852">
+    <img height="20" src="https://img.shields.io/twitter/follow/takaaki25852?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on ... Linux/Raspberry pi
 - 🌱 I’m currently learning ...　　Network qualification
 ⚡ Fun fact: fishing🎣 game🎮 fest♪

@@ -3,7 +3,7 @@
 welcome to my page.
 I'm Takaaki, Japanese college student aiming to become a security engineer.
 
-p align="left"> 
+<p align="left"> 
   <a href="https://github.com/taka1109y/taka1109y/">
     <img src="https://komarev.com/ghpvc/?username=taka1109y" alt="taka1109y" />
   </a>

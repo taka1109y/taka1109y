@@ -14,7 +14,7 @@ I'm Takaaki, Japanese college student aiming to become a security engineer.
 
 - 🔭 I’m currently working on ... Linux/Raspberry pi
 - 🌱 I’m currently learning ...　　Network qualification
-⚡ Fun fact: fishing🎣 game🎮 fest♪
+- ⚡ Fun fact: fishing🎣 game🎮 fest♪
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka1109y&layout=compact&count_private=true&show_icons=true" />

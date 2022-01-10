@@ -1,7 +1,7 @@
 ### Hi there, I'm Taka 👋
 
-welcome to my page.
-I'm Takaaki, Japanese college student aiming to become a security engineer.
+<p>welcome to my page.</p>
+<p>I'm Takaaki, Japanese college student aiming to become a security engineer.</p>
 
 <hr>
 
@@ -15,7 +15,6 @@ I'm Takaaki, Japanese college student aiming to become a security engineer.
 </p>
 
 <p>
-  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />

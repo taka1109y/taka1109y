@@ -6,7 +6,7 @@
 <hr>
 
 - 🌱 I’m currently learning ...　　Network/Linux
-- ⚡ Fun fact: fishing🎣  game🎮  fest♪
+- ⚡ Fun fact ...　　fishing🎣  game🎮  fest♪
 
 ## Technologies👨‍💻
 

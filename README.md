@@ -13,6 +13,7 @@ I'm Takaaki, Japanese college student aiming to become a security engineer.
     <img height="20" src="https://img.shields.io/twitter/follow/takaaki25852?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -25,9 +26,10 @@ I'm Takaaki, Japanese college student aiming to become a security engineer.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<p>
 - 🌱 I’m currently learning ...　　Network/Linux
 - ⚡ Fun fact: fishing🎣  game🎮  fest♪
-
+</p>
 
 
 <p align="left"> 

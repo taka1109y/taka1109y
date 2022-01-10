@@ -26,11 +26,8 @@ I'm Takaaki, Japanese college student aiming to become a security engineer.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p>
 - 🌱 I’m currently learning ...　　Network/Linux
 - ⚡ Fun fact: fishing🎣  game🎮  fest♪
-</p>
-
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka1109y&layout=compact&count_private=true&show_icons=true" />

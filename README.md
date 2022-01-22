@@ -1,4 +1,4 @@
-### Hi there, I'm Taka 👋
+### Hi there, I'm Takaaki 👋
 
 <p>welcome to my page.</p>
 <p>I'm Takaaki, Japanese college student aiming to become a security engineer.</p>

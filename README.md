@@ -6,7 +6,7 @@
 <hr>
 
 - 🌱 I’m currently learning ...　　WindowsServer/Linux/AIX/Network
-- ⚡ Fun fact ...　　fishing🎣  game🎮  fest♪
+- ⚡ Fun fact ...　　fishing🎣  game🎮
 
 ## Technologies👨‍💻
 

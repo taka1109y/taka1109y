@@ -45,7 +45,7 @@
   <a href="https://github.com/taka1109y/taka1109y/">
     <img src="https://komarev.com/ghpvc/?username=taka1109y" alt="taka1109y" />
   </a>
-  <a href="http://twitter.com/takaaki25852">
+  <a href="http://twitter.com/dia__dev">
     <img height="20" src="https://img.shields.io/twitter/follow/takaaki25852?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
